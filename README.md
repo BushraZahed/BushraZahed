@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @BushraZahed
+- 🏆 MS in Computer Science
 - 👀 I’m interested in data science, DevOps using python programming
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on data science projects
