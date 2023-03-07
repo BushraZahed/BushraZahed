@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me linkedin.com/in/bushrazahed/
 - 📧 Email at zahedbushra@gmail.com to schedule an interview for full time job opportunity.
-- 📰 Check out my https://www.linkedin.com/newsletters/7016179279889645568/
+- 📰 Check out my newsletter https://www.linkedin.com/newsletters/7016179279889645568/
 
 <!---
 BushraZahed/BushraZahed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
